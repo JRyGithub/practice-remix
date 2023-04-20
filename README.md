@@ -1,7 +1,7 @@
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
-
+- [Tutorial](https://remix.run/docs/en/main/tutorials/jokes#user-registration)
 ## Development
 
 From your terminal:
